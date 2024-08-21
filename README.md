@@ -15,3 +15,5 @@
 
 
 <p>I am trying to improve myself in software and programming and increase my competencies. I am currently trying to learn the necessary information to become a front-end or back-end developer.</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah06444&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
