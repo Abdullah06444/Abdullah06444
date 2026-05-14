@@ -3,8 +3,8 @@
 </p>
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Abdullah06444)](https://github.com/Abdullah06444)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-g%C3%BCr-b86b9616b/)](https://www.linkedin.com/in/abdullah-gür-b86b9616b/) 
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat-square&logo=Github&logoColor=white&link=https://github.com/abdullah44gur)](https://github.com/abdullah44gur)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah44gur/)](https://www.linkedin.com/in/abdullah44gur/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdullah44gur@gmail.com)](mailto:abdullah44gur@gmail.com)
 
 
@@ -16,4 +16,4 @@
 
 <p>I am trying to improve myself in software and programming and increase my competencies. I am currently trying to learn the necessary information to become a front-end or back-end developer.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah06444&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah44gur&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
